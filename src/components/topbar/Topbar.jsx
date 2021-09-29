@@ -15,9 +15,9 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
               <span>+61 481 152 128</span></a>
           </div>
           <div className="itemContainer">
-            <a href="mailto:vivekverma326@gmail.com">
+            <a href="mailto:vivek.verma03@infosys.com">
               <Mail className="icon" />
-              <span>vivekverma326@gmail.com</span></a>
+              <span>vivek.verma03@infosys.com</span></a>
           </div>
           <div className="itemContainer">
             <a href="https://www.linkedin.com/in/vivek-au/">
